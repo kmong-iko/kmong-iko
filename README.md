@@ -10,7 +10,7 @@ I'm currently exploring web development, UI/UX design, and software development.
 - An artist who enjoys combining art and technology
 - I love turning ideas into functional and creative projects
 
-### 🎀 Tech & Tools
+### Tech & Tools
 
 **Languages**
 
