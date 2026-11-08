@@ -1,4 +1,4 @@
-# ˚₊‧꒰ა Hi, I'm Kae! ໒꒱ ‧₊˚
+# ˚₊‧꒰ Hi, I'm Kae! ꒱ ‧₊˚
 
 ୨୧ A Computer Science student who loves bringing ideas to life through **technology and creativity**.
 
