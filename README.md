@@ -43,3 +43,5 @@ I'm currently exploring web development, UI/UX design, and software development.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-LinkedIn-e2d5ff?style=flat-square&logo=linkedin&logoColor=66508f)](https://www.linkedin.com/in/katelyn-ong-iko-86173b432/)
 [![Email](https://img.shields.io/badge/Email-Contact%20Me-ffc6d9?style=flat-square&logo=gmail&logoColor=8b4560)](mailto:kmongiko.dev@gmail.com)
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit%20My%20Website-ffe0cc?style=flat-square&logo=githubpages&logoColor=96563c)](https://kmong-iko.github.io/)
